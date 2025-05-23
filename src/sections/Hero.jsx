@@ -17,7 +17,10 @@ const Hero = () => {
               👋 Hey, I'm Here
             </p>
             <h1 className="font-bold md:text-9xl text-5xl">SUJAL DEY</h1>
-            <h1 className="font-bold md:text-9xl text-5xl">CREATIVE</h1>
+            <div className="flex items-center">
+              <p className="font-medium md:text-2xl text-base">Welcome to - </p>
+              <h1 className="font-bold md:text-9xl text-5xl">SamStack.xyz</h1>
+            </div>
           </div>
 
           <div className="absolute w-full z-30 bottom-20 right-0">
